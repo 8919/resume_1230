@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"kk.jpg",
+		"name":"pranitha",
+		"roll":"16NN1A1230",
+		"college":"vignan nirula",
+		"place":"guntur"
+	},
+	"career":{
+	"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills"},
+	"educational":[
+		{
+			"degree":"b.tech",
+			"institution":"vignan",
+			"yop":"2020"
+
+		},
+		{
+			"degree":"intermedite",
+			"institution":"sri chaitanya",
+			"yop":"2016"
+		},
+		{
+			"degree":"s.s.c",
+			"institution":"sri chaitanya",
+			"yop":"2014"
+		}
+	],
+	"languages":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindhi"
+		}
+	],
+	"skills":[
+		{
+			"title":"platform",
+			"content":"windows,linus"
+		},
+		{
+			"title":"programming languages",
+			"content":"c,c++,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+		}
+	]
+}
